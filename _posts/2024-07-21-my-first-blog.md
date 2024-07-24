@@ -6,3 +6,7 @@ This is just to check if everything is working as intended over at [0v3rf10wv0id
 - [ ] Setup blogging
 - [ ] Initialise SIEM project
 - [ ] Add Resume
+
+## Currently Working On
+- [SOC Analyst Learning Path](https://app.letsdefend.io/path/soc-analyst-learning-path)
+- [Forage - JP Morgan Chase Cybersecurity](https://www.theforage.com/virtual-internships/gWbW5qHAChqQBGWpA)
